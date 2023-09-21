@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="./apple.xsl" type="text/xsl"?>
+<!-- <products> -->
+<!--   <product> -->
+<!--   <product_name>Apple</product_name> -->
+<!--   <category>Fruit</category> -->
+<!--   <price>10</price> -->
+<!--   <quantity>100</quantity> -->
+<!-- </product> -->
+<!-- <product> -->
+<!--   <product_name>Banana</product_name> -->
+<!--   <category>Fruit</category> -->
+<!--   <price>8</price> -->
+<!--   <quantity>75</quantity> -->
+<!-- </product> -->
+<!-- <product> -->
+<!--   <product_name>Orange</product_name> -->
+<!--   <category>Fruit</category> -->
+<!--   <price>6</price> -->
+<!--   <quantity>120</quantity> -->
+<!-- </product> -->
+<!-- <product> -->
+<!--   <product_name>Strawberries</product_name> -->
+<!--   <category>Fruit</category> -->
+<!--   <price>12</price> -->
+<!--   <quantity>50</quantity> -->
+<!-- </product> -->
+<!-- <product> -->
+<!--   <product_name>Grapes</product_name> -->
+<!--   <category>Fruit</category> -->
+<!--   <price>9</price> -->
+<!--   <quantity>90</quantity> -->
+<!-- </product> -->
+<!-- </products> -->
+<products>
+  <product>
+    <product_name>Apple</product_name>
+    <category>Category A</category>
+    <price>20.99</price>
+    <quantity>15</quantity>
+  </product>
+  <product>
+    <product_name>Banana</product_name>
+    <category>Category B</category>
+    <price>10.50</price>
+    <quantity>5</quantity>
+  </product>
+  <product>
+    <product_name>Citrus</product_name>
+    <category>Category A</category>
+    <price>15.75</price>
+    <quantity>12</quantity>
+  </product>
+  <product>
+    <product_name>Armdello</product_name>
+    <category>Category C</category>
+    <price>30.25</price>
+    <quantity>8</quantity>
+  </product>
+  <product>
+    <product_name>Xenemorph</product_name>
+    <category>Category B</category>
+    <price>18.50</price>
+    <quantity>20</quantity>
+  </product>
+</products>
