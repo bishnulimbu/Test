@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="first.xsl" type="text/xsl"?>
+<employees>
+  <employee>
+    <name>Shweta Sharma</name>
+    <department>Finance</department>
+    <post>Financial Analyst</post>
+    <salary>22,500</salary>
+    <email>shwetasharma@email.com</email>
+  </employee>
+  <employee>
+    <name>Amit Patel</name>
+    <department>Engineering</department>
+    <post>Software Engineer</post>
+    <salary>25,000</salary>
+    <email>amitpatel@email.com</email>
+  </employee>
+  <employee>
+    <name>Priya Verma</name>
+    <department>Marketing</department>
+    <post>Marketing Manager</post>
+    <salary>30,000</salary>
+    <email>priyaverma@email.com</email>
+  </employee>
+  <employee>
+    <name>Rahul Gupta</name>
+    <department>Human Resources</department>
+    <post>HR Specialist</post>
+    <salary>20,800</salary>
+    <email>rahulgupta@email.com</email>
+  </employee>
+  <employee>
+    <name>Manisha Singh</name>
+    <department>Sales</department>
+    <post>Sales Manager</post>
+    <salary>28,000</salary>
+    <email>manishasingh@email.com</email>
+  </employee>
+</employees>
