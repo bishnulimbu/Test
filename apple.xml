@@ -1,5 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="./apple.xsl" type="text/xsl"?>
+<?xml-stylesheet href="apple.xsl" type="text/xsl"?>
+<products>
+  <product>
+    <productname>Product 1</productname>
+    <category>Category A</category>
+    <price>20.00</price>
+    <quantity>15</quantity>
+  </product>
+  <product>
+    <productname>Product 2</productname>
+    <category>Category A</category>
+    <price>15.50</price>
+    <quantity>5</quantity>
+  </product>
+  <product>
+    <productname>Product 3</productname>
+    <category>Category B</category>
+    <price>10.99</price>
+    <quantity>12</quantity>
+  </product>
+  <product>
+    <productname>Product 4</productname>
+    <category>Category B</category>
+    <price>8.75</price>
+    <quantity>8</quantity>
+  </product>
+  <product>
+    <productname>Product 5</productname>
+    <category>Category C</category>
+    <price>5.99</price>
+    <quantity>20</quantity>
+  </product>
+  <product>
+    <productname>Product 6</productname>
+    <category>Category C</category>
+    <price>12.25</price>
+    <quantity>6</quantity>
+  </product>
+  <product>
+    <productname>Product 7</productname>
+    <category>Category A</category>
+    <price>18.75</price>
+    <quantity>9</quantity>
+  </product>
+  <product>
+    <productname>Product 8</productname>
+    <category>Category B</category>
+    <price>9.49</price>
+    <quantity>15</quantity>
+  </product>
+  <product>
+    <productname>Product 9</productname>
+    <category>Category C</category>
+    <price>7.95</price>
+    <quantity>11</quantity>
+  </product>
+  <product>
+    <productname>Product 10</productname>
+    <category>Category A</category>
+    <price>22.50</price>
+    <quantity>7</quantity>
+  </product>
+</products>
+<!-- <?xml version="1.0" encoding="UTF-8"?> -->
+<!-- <?xml-stylesheet href="./apple.xsl" type="text/xsl"?> -->
 <!-- <products> -->
 <!--   <product> -->
 <!--   <product_name>Apple</product_name> -->
@@ -32,35 +96,35 @@
 <!--   <quantity>90</quantity> -->
 <!-- </product> -->
 <!-- </products> -->
-<products>
-  <product>
-    <product_name>Apple</product_name>
-    <category>Category A</category>
-    <price>20.99</price>
-    <quantity>15</quantity>
-  </product>
-  <product>
-    <product_name>Banana</product_name>
-    <category>Category B</category>
-    <price>10.50</price>
-    <quantity>5</quantity>
-  </product>
-  <product>
-    <product_name>Citrus</product_name>
-    <category>Category A</category>
-    <price>15.75</price>
-    <quantity>12</quantity>
-  </product>
-  <product>
-    <product_name>Armdello</product_name>
-    <category>Category C</category>
-    <price>30.25</price>
-    <quantity>8</quantity>
-  </product>
-  <product>
-    <product_name>Xenemorph</product_name>
-    <category>Category B</category>
-    <price>18.50</price>
-    <quantity>20</quantity>
-  </product>
-</products>
+<!-- <products> -->
+<!--   <product> -->
+<!--     <product_name>Apple</product_name> -->
+<!--     <category>Category A</category> -->
+<!--     <price>20.99</price> -->
+<!--     <quantity>15</quantity> -->
+<!--   </product> -->
+<!--   <product> -->
+<!--     <product_name>Banana</product_name> -->
+<!--     <category>Category B</category> -->
+<!--     <price>10.50</price> -->
+<!--     <quantity>5</quantity> -->
+<!--   </product> -->
+<!--   <product> -->
+<!--     <product_name>Citrus</product_name> -->
+<!--     <category>Category A</category> -->
+<!--     <price>15.75</price> -->
+<!--     <quantity>12</quantity> -->
+<!--   </product> -->
+<!--   <product> -->
+<!--     <product_name>Armdello</product_name> -->
+<!--     <category>Category C</category> -->
+<!--     <price>30.25</price> -->
+<!--     <quantity>8</quantity> -->
+<!--   </product> -->
+<!--   <product> -->
+<!--     <product_name>Xenemorph</product_name> -->
+<!--     <category>Category B</category> -->
+<!--     <price>18.50</price> -->
+<!--     <quantity>20</quantity> -->
+<!--   </product> -->
+<!-- </products> -->
