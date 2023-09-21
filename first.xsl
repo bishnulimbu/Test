@@ -34,7 +34,7 @@
             <strong>Department:</strong> <xsl:value-of select="department"/><br/>
             <strong>Job Title:</strong> <xsl:value-of select="post"/><br/>
             <strong>Salary:</strong> <xsl:value-of select="salary"/><br/>
-            <strong>Email:</strong> <a href="mailto:{email}"><xsl:value-of select="email"/></a>
+            <strong>Email:</strong><xsl:value-of select="email"/></a>
         </li>
     </xsl:template>
 
