@@ -3,7 +3,7 @@ include 'connect.php';
 if(isset($_POST['submit'])){
   $name= $_POST['name'];
 
-  $sql="INSERT INTO Table1(name)
+  $sql="INSERT INTO Table1()
   values('$name')";
 
   $result=mysqli_query($con, $sql);
