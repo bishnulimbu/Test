@@ -1,8 +1,9 @@
 <?php
 
-$con= new mysqli('localhost','root','','Data');
-if($con){
-  echo "connecion is successful";
-}else{
+$con= new mysqli('localhost','root','','Data1');
+if(!$con){
   die(mysqli_error($con));
+}else{
+  // echo "connecion is successful";
 }
+?>
