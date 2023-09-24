@@ -23,29 +23,29 @@ if(isset($_POST['submit'])){
   <head>
     <title></title>
     <meta charset="UTF-8">
-<!-- <style> -->
-<!--     body{ -->
-<!--       margin: 0; -->
-<!--       padding: 0; -->
-<!--       display: flex; -->
-<!--       justify-content: center; -->
-<!--       height: 90vh; -->
-<!--       align-items:center; -->
-<!--     } -->
-<!-- </style> -->
+<style>
+    body{
+      margin: 0;
+      padding: 0;
+      display: flex;
+      justify-content: center;
+      height: 100vh;
+      align-items:center;
+    }
+</style>
   </head>
   <body>
     <div class="center-form">
    <form>
           <br>
-    <label for="name" placeholder="Write your name">Name</label>
-    <input type="text" name="name"><br><br>
-    <label for="email" placeholder="Write your email">Email</label>
-    <input type="text" name="email"><br><br>
-    <label for="phone" placeholder="Write your phone no">phone</label>
-    <input type="number" name="phone"><br><br>
-    <label for="gender" placeholder="Write your gender">gender</label>
-    <input type="text" name="gender"><br><br>
+    <label for="name">Name</label>
+    <input type="text" placeholder="Write your name" name="name"><br><br>
+    <label for="email">Email</label>
+    <input type="text" placeholder="Write your email" name="email"><br><br>
+    <label for="phone">phone</label>
+    <input type="number" placeholder="Write your phone no" name="phone"><br><br>
+    <label for="gender">gender</label>
+    <input type="text" placeholder="Write your gender" name="gender"><br><br>
         <button type="submit" name="submit">Submit</button>
       </form>
         </div>
