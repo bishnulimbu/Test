@@ -12,7 +12,6 @@ if(isset($_POST['submit'])){
   $result=mysqli_query($con, $sql);
   if($result){
     echo "Data inserted successfully";
-    
   }else{
     die(mysqli_error($con));
   }
@@ -46,9 +45,8 @@ if(isset($_POST['submit'])){
     <input type="number" placeholder="Write your phone no" name="phone"><br><br>
     <label for="gender">gender</label>
     <input type="text" placeholder="Write your gender" name="gender"><br><br>
-        <button type="submit" name="submit">Submit</button>
+        <button type="submit" name="submit">submit</button>
       </form>
         </div>
   </body>
 </html> 
-
