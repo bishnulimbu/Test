@@ -9,7 +9,7 @@ session_start();
     $_SESSION["name"]= "Ram";
     ?>
 <?php
-    print_r($SESSION);
+    print_r($_SESSION);
     ?>
   </body>
 </html>
