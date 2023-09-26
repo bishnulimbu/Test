@@ -7,8 +7,9 @@ session_start();
 <?php
     $_SESSION["favIcon"]= "Icon1";
     $_SESSION["name"]= "Ram";
-    echo "value is: ".$_SESSION["favIcon"]."";
-    echo "value is: ".$_SESSION["name"]."";
+    ?>
+<?php
+    print_r($SESSION);
     ?>
   </body>
 </html>
