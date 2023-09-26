@@ -1,6 +1,10 @@
 <?php
 // echo readfile("./file.txt");
 $myfile = fopen("./file.txt", 'r') or die("file not found.");
-echo fread($myfile, filesize("file.txt"));
+echo fgets($myfile);
+echo fgets($myfile);
+echo fgets($myfile);
+echo fgets($myfile);
+echo fgets($myfile);
 fclose($myfile);
 ?>
