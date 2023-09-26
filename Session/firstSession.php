@@ -9,6 +9,8 @@ session_start();
     $_SESSION["name"]= "Ram";
     ?>
 <?php
+//    echo $_SESSION["favIcon"]."<br>";
+ //   echo $_SESSION["name"];
     print_r($_SESSION);
     ?>
   </body>
